@@ -1,2 +1,8 @@
-﻿Első házi jeeeee!!!!!
-még több
+﻿I.
+- git repo klónozása és innentől a használata, ha módosítunk a repoban (git commit -m"ide írj valamit hogy mi módosult") + (git push), a git status szerint mindig legyen clean
+- https://www.jetbrains.com/idea/download/#section=windows -> telepítsd a "community" verziót
+- https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html -> telepítsd ezt: "Java SE Development Kit 8u201"
+- https://www.programmingbasics.org/en/beginner/gettingstarted.html -> ezt csináld meg a "Strings 2" leckéig, az utána következőt már nem kell
+- https://www.tutorialspoint.com/computer_programming/index.htm -> a bal oldalon lévő "Computer programming tutorial" pontokon menj végig. Nem lesz hozzá semmire szükséged, az oldalon beépített IDE van "Live Demo"-ra kattintva.
+
+/// Ha elakadsz vagy kérdésed van írj viberen. Ha nem mondassz semmit úgy készülök a következő alkalomra, hogy ezeket megcsináltad. ///
