@@ -1,9 +1,16 @@
-﻿I.
-- git repo klónozása és innentől a használata, ha módosítunk a repoban (git commit -m"ide írj valamit hogy mi módosult") + (git push), a git status szerint mindig legyen clean
-- https://www.jetbrains.com/idea/download/#section=windows -> telepítsd a "community" verziót
-- https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html -> telepítsd ezt: "Java SE Development Kit 8u201"
-- https://www.programmingbasics.org/en/beginner/gettingstarted.html -> ezt csináld meg a "Strings 2" leckéig, az utána következőt már nem kell
-- https://www.tutorialspoint.com/computer_programming/index.htm -> a bal oldalon lévő "Computer programming tutorial" pontokon menj végig. Nem lesz hozzá semmire szükséged, az oldalon beépített IDE van "Live Demo"-ra kattintva.
-- vegül nyistd meg IntelliJ-ben open project-tel a "hello word" projektedet a learning mappából és nyomj rá a play piktogramra (zöld háromszög). Utána írd át a "Krisztián"-t "Tamás"-ra. Mást ne változtass, és utána töltsd fel a repoba (git add "filename" (tab kitölti neked), git commit, git push -> a szokásos szentháromság).
+﻿/// Ha elakadsz vagy kérdésed van írj viberen. ///
 
-/// Ha elakadsz vagy kérdésed van írj viberen. Ha nem mondassz semmit úgy készülök a következő alkalomra, hogy ezeket megcsináltad. ///
+I.
+- K git repo klónozása és innentől a használata, ha módosítunk a repoban (git commit -m"ide írj valamit hogy mi módosult") + (git push), a git status szerint mindig legyen clean
+- K https://www.jetbrains.com/idea/download/#section=windows -> telepítsd a "community" verziót
+- K https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html -> telepítsd ezt: "Java SE Development Kit 8u201"
+- 0 https://www.programmingbasics.org/en/beginner/gettingstarted.html -> ezt csináld meg a "Strings 2, line 14" leckéig, az utána következőt már nem kell
+- 0 https://www.tutorialspoint.com/computer_programming/index.htm -> a bal oldalon lévő "Computer programming tutorial" pontokon menj végig. Nem lesz hozzá semmire szükséged, az oldalon beépített IDE van "Live Demo"-ra kattintva.
+- K vegül nyistd meg IntelliJ-ben open project-tel a "hello word" projektedet a learning mappából és nyomj rá a play piktogramra (zöld háromszög). Utána írd át a "Krisztián"-t "Tamás"-ra. Mást ne változtass, és utána töltsd fel a repoba (git add "filename" (tab kitölti neked), git commit, git push -> a szokásos szentháromság).
+
+
+II.
+
+- 0 https://www.programmingbasics.org/en/beginner/gettingstarted.html -> ezt csináld meg a "Strings 2, line 14" leckéig, az utána következőt már nem kell
+- 0 https://www.tutorialspoint.com/computer_programming/index.htm -> a bal oldalon lévő "Computer programming tutorial" pontokon menj végig. Nem lesz hozzá semmire szükséged, az oldalon beépített IDE van "Live Demo"-ra kattintva.
+- 0 https://www.w3schools.com/java/ ezt fusd át, ami megy próbáld ki, amit nem értessz írd fel
